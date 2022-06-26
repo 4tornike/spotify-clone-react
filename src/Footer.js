@@ -15,8 +15,8 @@ function Footer() {
         <div className='footer--left'>
           <img 
             className='footer--albumLogo'
-            src=''
-            alt=''
+            src='https://upload.wikimedia.org/wikipedia/en/2/2e/Usher-yeah.jpg'
+            alt='Usher Yeah'
           />
           <div className='footer--songInfo'>
             <h4>Yeah!</h4>
