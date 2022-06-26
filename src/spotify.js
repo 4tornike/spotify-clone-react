@@ -12,7 +12,7 @@ const scopes = [
     "user-modify-playback-state"
 ]
 
-//  #access_token=BQDN-WmB3bke58uZARhw7BVOZNkNfp7B_3Z1Ve4hIxRkwN0-12gRLevP179t0rXFWvwdGizCMXlvLidgdCnXGJTCSauuaBLaYEwFEohIg_DCblQoV4ueVqMqJh_9sHaf1u5GZp1g4aToWCb0HzmLOzNenAYeFdrXWvd9ZNdfjsjI3uV49KinOzgYaPZwshAHge_ym3q-GgO6zqVyGQ&token_type=Bearer&expires_in=3600
+
 export const getTokenFromUrl = () => {
     return window.location.hash
     .substring(1)
