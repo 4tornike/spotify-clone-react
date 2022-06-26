@@ -53,9 +53,9 @@
 
 .footer--right {
     flex: 0.3;
-    max-width: 70%;
 }
 
 .footer--right * .MuiSlider-root {
+    max-width: 70%;
     color: green;
 }
